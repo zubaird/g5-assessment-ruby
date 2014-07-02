@@ -48,9 +48,6 @@ Write code that can:
       verses: 1,
       lines: 8,
     },
-    "As far As Your Rifles Cover" => {
-      verses: 1,
-    },
   },
   "Robert Lee Frost" => {
     "The Lockless Door" => {
