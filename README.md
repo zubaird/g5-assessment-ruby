@@ -28,11 +28,11 @@ The files contain:
 * The poem
 * Each verse is separated by a blank line
 
-## Part 1
+## Challenge
 
-Write code that can:
+Write library code that can:
 
-* Go through every file in the `data` directory (see http://www.ruby-doc.org/core-2.1.2/Dir.html#method-c-glob)
+* Go through every file in a given directory (see http://www.ruby-doc.org/core-2.1.2/Dir.html#method-c-glob)
 * Read each file
 * Parse the title, author and verses
 * Generate a hash like so:
@@ -58,10 +58,27 @@ Write code that can:
 }
 ```
 
-The number of lines should reflect the number of non-blank lines.
+The number of lines should reflect the number of non-blank lines.  So the following poem would have 8 lines:
+
+```
+In Possum Land the nights are fair,
+the streams are fresh and clear;
+no dust is in the moonlit air;
+no traffic jars the ear.
+
+With Possums gambolling overhead,
+'neath western stars so grand,
+Ah! would that we could make our bed
+tonight in Possum Land
+```
+
+## Notes
+
+We will run this code on a computer that is not yours.  Please do not hard-code any full paths on your computer.
 
 # Setup
 
 * Fork
 * Clone
+* Create a v1 branch
 * Implement specs and code
