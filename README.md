@@ -1,4 +1,4 @@
-# gSchool mid-term Ruby assessment
+# gSchool Ruby assessment
 
 You work for a book company that publishes poems.  You just inherited a treasure trove of poems in the public domain.
 Your job is to provide some stats about the poems.
@@ -76,9 +76,3 @@ tonight in Possum Land
 
 We will run this code on a computer that is not yours.  Please do not hard-code any full paths on your computer.
 
-# Setup
-
-* Fork
-* Clone
-* Create a v1 branch
-* Implement specs and code
